@@ -1,0 +1,50 @@
+body {
+
+    background-color: antiquewhite;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    
+}
+
+p {
+
+    font-size: 22px;
+    border: solid 3px black;
+    margin: auto;
+    border-radius: 5px;
+    padding: 7px 10px 7px 10px;
+    width: 50%;
+    text-align: left !important;
+
+
+}
+
+
+input {
+
+    font-size: 22px;
+    border: solid 3px black;
+    margin: auto;
+    border-radius: 5px;
+    padding: 7px 10px 7px 10px;
+    width: 50%;
+
+
+}
+
+img {
+
+    margin: 30px;
+}
+
+.date {
+
+    background-color: cornsilk;
+
+}
+
+.superstar {
+
+    background-color: mistyrose;
+}
