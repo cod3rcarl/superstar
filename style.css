@@ -1,6 +1,6 @@
 body {
 
-    background-color: antiquewhite;
+    background-color: black;
     color: black;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
@@ -10,7 +10,7 @@ body {
 p {
 
     font-size: 22px;
-    border: solid 3px black;
+    border: solid 3px red;
     margin: auto;
     border-radius: 5px;
     padding: 7px 10px 7px 10px;
@@ -24,7 +24,7 @@ p {
 input {
 
     font-size: 22px;
-    border: solid 3px black;
+    border: solid 3px red;
     margin: auto;
     border-radius: 5px;
     padding: 7px 10px 7px 10px;
@@ -36,6 +36,7 @@ input {
 img {
 
     margin: 30px;
+    width: 30%;
 }
 
 .date {
